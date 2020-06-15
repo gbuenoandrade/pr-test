@@ -1,2 +1,2 @@
-feat1
-feat2
+feat1 - MAX
+feat2 - MAX
